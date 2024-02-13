@@ -1,0 +1,43 @@
+{
+	"Twitter":
+	{
+		"sheet": "Twitter",
+		"table": "TWITTER",
+		"skip_header": "1"
+	},
+
+    "Forums":
+	{
+		"sheet": "Forums",
+		"table": "FORUMS",
+		"skip_header": "1"
+	},
+
+	"Trustpilot":
+	{
+		"sheet": "Trustpilot",
+		"table": "TRUST_PILOT",
+		"skip_header": "1"
+    },
+
+	"Newcases":
+	{
+		"sheet": "New cases",
+		"table": "NEW_CASES",
+		"skip_header": "2"
+    },
+
+	"Resolvedcases":
+	{
+		"sheet": "Resolved cases",
+		"table": "RESOLVED_CASES",
+		"skip_header": "3"
+    },
+
+	"EarlyresolutiondataH12022":
+	{
+		"sheet": "Early resolution data H1 2022",
+		"table": "EARLY_RESOLUTION",
+		"skip_header": "1"
+    }            
+}

@@ -1,0 +1,1 @@
+To reduce the size of the package, virtual Environment is deleted before packaging the files.

@@ -1,0 +1,35 @@
+{
+	"Bronze":
+	{
+		"account": "rvaskrs-qk78772",
+		"user": "ETL",
+		"password": "etlPassword123",
+		"database": "MOTOR_INSURANCE",
+		"schema": "BRONZE",
+		"warehouse": "COMPUTE_WH",
+		"role": "TRANSFORM"
+	},
+
+	"Silver":
+	{
+		"account": "rvaskrs-qk78772",
+		"user": "ETL",
+		"password": "etlPassword123",
+		"database": "MOTOR_INSURANCE",
+		"schema": "SILVER",
+		"warehouse": "COMPUTE_WH",
+		"role": "TRANSFORM"
+	},
+
+	"Gold":
+	{
+		"account": "rvaskrs-qk78772",
+		"user": "ETL",
+		"password": "etlPassword123",
+		"database": "MOTOR_INSURANCE",
+		"schema": "GOLD",
+		"warehouse": "COMPUTE_WH",
+		"role": "TRANSFORM"
+	}
+
+}
